@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="main.src"/>
+	<classpathentry kind="src" path="main.test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/lucene-analyzers-common-5.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-backward-codecs-5.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core-5.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-expressions-5.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-grouping-5.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-highlighter-5.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-join-5.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-memory-5.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-misc-5.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-queries-5.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-queryparser-5.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-sandbox-5.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-spatial-5.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-suggest-5.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.7.1.jar" sourcepath="C:/Users/chenc12/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.7.1/bee8029a14cebcdc6ef38832f9732e0e040b8df/jackson-core-2.7.1-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
